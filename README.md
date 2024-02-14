@@ -1,6 +1,6 @@
 # Ayadi: Parenting Consulting System 
 
-Ayadi is a cross-platform mobile application and website designed to facilitate communication between parents and child specialists through online sessions and more. This project is developed using Flutter for the mobile apps and Firebase for backend services.
+Ayadi is a cross-platform mobile application and website designed to facilitate communication between parents and child specialists through online sessions and more. This project is developed using Flutter framework and Firebase for backend services.
 
 ## Note 📝
 
